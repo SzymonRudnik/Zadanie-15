@@ -1,2 +1,2 @@
-O = open("src/main.py) 
-print(O.read())
+o = open("src/main.py) 
+print(o.read())
