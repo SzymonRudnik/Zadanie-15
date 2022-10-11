@@ -9,7 +9,6 @@ int main()
   cin >> a;
   cout << "Podaj druga liczbe: ";
   cin >> b;
-  cout << "Suma tych liczb to: " << a+b << endl;
-  
+  cout << "Suma tych liczb to: " << a+b;
   return 0;
 }
